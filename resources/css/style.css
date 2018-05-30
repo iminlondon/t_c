@@ -83,10 +83,12 @@ a {
 
 .tea-month {
   text-align: center;
+  margin: 0 auto;
 }
 
 .product p {
-  margin-bottom: 1px;
+  margin-bottom: 0 auto;
   text-align: center;
+  margin-top: -10px;
 
 }
