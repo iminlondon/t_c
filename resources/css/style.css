@@ -35,6 +35,8 @@ a {
  flex-grow: 1;
 }
 
+/*MAIN CONTENT*/
+
 .main {
   position: relative;
   text-align: center;
@@ -95,6 +97,8 @@ a {
   position: relative;
 }
 
+/*LOCATION SECTION*/
+
 #location-section {
   display: flex;
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
@@ -134,4 +138,15 @@ a {
   margin-right: 40px;
   background-color: black;
   align-items: center;
+}
+
+/*FOOTER*/
+
+.info {
+  text-align: center;
+  height: 200px;
+}
+
+.copyright {
+  margin-left: 20px;
 }
